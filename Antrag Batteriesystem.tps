@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=tex\ZieleDesVorhabens.tex
 
 [Frame0_View0,0]
-TopLine=108
-Cursor=8336
+TopLine=0
+Cursor=90
 
 [Frame1]
 Flags=0
